@@ -2,7 +2,7 @@
 Un dispositivo elettronico capace di mostrare il livello di allerta dell’emissione della cenere vulcanica dell’Etna (indicato nel più recente comunicato VONA) attraverso un LED..
 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfQsHug61evHYBKZ-YGyH91-3xZjieyA-C2-sKjOfzpad5EejSaPCt1hrZDcvhGv3HFQXglxm8h8V2u12b5AiUlOn7-nXVA82Tes9Ik_6Lu1MjzJ7ANN2Jp0pPIrDib7QmGy_LjQ?key=buQ2jXQKaaDo5jNF0tqy7w)
+![](img/tps3 logo.png)
 
 # TPS³ – progetto TPSIT **verticale** per il **triennio** 
 
